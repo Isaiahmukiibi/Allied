@@ -20,11 +20,11 @@ With Allied, students can explore both **indoor** and **outdoor** events within 
 
 ## 🚀 Screenshots
 
-Here are some screenshots showcasing Allied (displayed in a smaller size for convenience):
+Here are some screenshots showcasing Allied:
 
 <p align="center">
   <img src="Screenshots/Profile.jpg" alt="Profile Screen" width="200"/>
-  <img src="Screenshots/Event.jpg" alt="Event Details" width="200"/>
+  <img src="Screenshots/Events.jpg" alt="Event Details" width="200"/>
   <img src="Screenshots/Create.jpg" alt="Create Screen" width="200"/>
   <img src="Screenshots/Discover.jpg" alt="Discover Details" width="200"/>
   <img src="Screenshots/Chat.jpg" alt="Chat Screen" width="200"/>
