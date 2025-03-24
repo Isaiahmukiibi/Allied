@@ -1,6 +1,5 @@
 # Allied - Campus Social Media App
 
-
 ## 📖 About Allied
 
 **Allied** is a campus social media app built with **TypeScript** and **Node.js** that connects students effortlessly. It is designed for students who may find it challenging to socialize in traditional settings, offering a convenient platform to connect with campus events and activities.
@@ -21,12 +20,15 @@ With Allied, students can explore both **indoor** and **outdoor** events within 
 
 ## 🚀 Screenshots
 
-Take a look at some screenshots showcasing Allied:
+Here are some screenshots showcasing Allied (displayed in a smaller size for convenience):
 
-| Profile Screen | Event Details | Create Screen | Discover Details | Chat Screen |
-|--------------|---------------|--------------|--------------|---------------|--------------|
-
-| ![Home](Screenshots/Profile.jpg) | ![Event Details](Screenshots/Event.jpg) | ![Create](Screenshots/Create.jpg) | ![Discover](Screenshots/Discover.jpg)| ![Chat](Screenshots/Chat.jpg) |
+<p align="center">
+  <img src="Screenshots/Profile.jpg" alt="Profile Screen" width="200"/>
+  <img src="Screenshots/Event.jpg" alt="Event Details" width="200"/>
+  <img src="Screenshots/Create.jpg" alt="Create Screen" width="200"/>
+  <img src="Screenshots/Discover.jpg" alt="Discover Details" width="200"/>
+  <img src="Screenshots/Chat.jpg" alt="Chat Screen" width="200"/>
+</p>
 
 ---
 
@@ -50,7 +52,6 @@ Follow these steps to install and run Allied locally:
     ```bash
     npm install
     ```
-
 3. **Start the App:**
     ```bash
     npx expo start
@@ -79,4 +80,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 📧 Contact
 
 For any questions or inquiries, reach out via GitHub: [Isaiahmukiibi](https://github.com/Isaiahmukiibi)
-
